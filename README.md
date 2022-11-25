@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences with <a href="https://jjanvier.com/resume.html">my resume</a>
 
-<h3 align="left">Blogs posts:</h3>
+<h3 align="left">Latest blogs posts:</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Akeneo PIM 3.0, let’s tidy up!](https://medium.com/akeneo-labs/akeneo-pim-3-0-lets-tidy-up-a91d986bf5bb?source=rss-8eb5d94a1dea------2)
