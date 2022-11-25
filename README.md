@@ -13,6 +13,11 @@
 
 <h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Akeneo PIM 3.0, let’s tidy up!](https://medium.com/akeneo-labs/akeneo-pim-3-0-lets-tidy-up-a91d986bf5bb?source=rss-8eb5d94a1dea------2)
+- [My Top3 Talks at NewCrafts Conference](https://medium.com/jjanvier/my-top3-talks-at-newcrafts-conference-d48aef1a0064?source=rss-8eb5d94a1dea------2)
+- [Feedback From the DDDx 2018 Conference](https://medium.com/jjanvier/feedback-from-the-dddx-2018-conference-d698161f59e9?source=rss-8eb5d94a1dea------2)
+- [Re-building the storage from the ground up](https://medium.com/akeneo-labs/re-building-the-storage-from-the-ground-up-d857bf497c32?source=rss-8eb5d94a1dea------2)
+- [Akeneo PIM 1.5 and the PHP 7 Support of the CLI](https://medium.com/akeneo-labs/akeneo-pim-1-5-and-the-php-7-support-of-the-cli-fa5a87325438?source=rss-8eb5d94a1dea------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
