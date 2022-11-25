@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Julien Janvier</h1>
-<h3 align="center">Senior Software Engineer & Technical Coach</h3>
+<h2 align="center">Senior Software Engineer & Technical Coach</h2>
 
-- 📝 I regularly write articles on [https://jjanvier.com/blog](https://jjanvier.com/blog)
+- 💬 Ask me about **TDD, Testing, Extreme Programming, and Decoupled Architectures**
 
-- 💬 Ask me about **TDD, Testing, Extreme Programming, Decoupled Architectures**
+- 💡 Projects I developed <a href="https://tdd.sh/">TDD.sh</a> & <a href="https://nouba.app/">Nouba</a>
 
 - 📫 How to reach me **j.janvier@gmail.com**
 
 - 📄 Know about my experiences [https://jjanvier.com/resume.html](https://jjanvier.com/resume.html)
 
-### Blogs posts
+<h3 align="left">Blogs posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/jjanvier_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjanvier_" height="30" width="40" /></a>
   <a href="https://twitter.com/jjanvier_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jjanvier_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/julien-janvier-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julien-janvier-software-engineer" height="30" width="40" /></a>
+  <a href="https://dev.to/jjanvier_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jjanvier_" height="30" width="40" /></a>
   <a href="https://medium.com/@jjanvier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjanvier" height="30" width="40" /></a>
   <a href="/https://jjanvier.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jjanvier.com/feed.xml" height="30" width="40" /></a>
 </p>
